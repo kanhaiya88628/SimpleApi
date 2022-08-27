@@ -1,0 +1,22 @@
+{  
+    "employee1": {  
+        "name":       "sonoo",   
+        "salary":      56000  
+    }  ,
+    "employee2": {  
+        "name":       "ramesh",   
+        "salary":      56000  
+    }  ,
+    "employee3": {  
+        "name":       "suresh",   
+        "salary":      56000  
+    }  ,
+    "employee4": {  
+        "name":       "kanhaiya",   
+        "salary":      56000  
+    }  ,
+    "employee5": {  
+        "name":       "rohit",   
+        "salary":      56000  
+    }  
+}  
